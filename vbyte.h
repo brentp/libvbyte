@@ -27,6 +27,7 @@
 #define VBYTE_H_ee452711_c856_416d_82f4_e12eef8a49be
 
 #include <stdint.h>
+#include <stddef.h>
 
 #ifdef __cplusplus
 extern "C" {
